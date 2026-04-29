@@ -123,16 +123,3 @@ Opens at **http://localhost:8501**
 
 ---
 
-## Results
-
-| Label | AUC |
-|-------|-----|
-| toxic | — |
-| severe_toxic | — |
-| obscene | — |
-| threat | — |
-| insult | — |
-| identity_hate | — |
-| **Mean AUC** | **—** |
-
-*(Fill in after training)*
