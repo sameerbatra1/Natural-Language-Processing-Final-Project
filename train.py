@@ -32,7 +32,7 @@ model_cfg = ModelConfig(
 )
 
 trainer_cfg = TrainerConfig(
-    epochs=3,
+    epochs=5,
     lr=2e-5,
     warmup_ratio=0.1,
     weight_decay=0.01,
